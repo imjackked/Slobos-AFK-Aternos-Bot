@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "imjackked.aternos.me:26324",
+    "port": 26324,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
